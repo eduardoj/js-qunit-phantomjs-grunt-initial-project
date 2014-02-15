@@ -1,7 +1,7 @@
 js-qunit-phantomjs-grunt-initial-project
 ========================================
 
-Initial javascript phantomjs grunt project.
+Initial javascript qunit phantomjs grunt project.
 
 Based on "Automated JavaScript Tests Using Grunt, Phantomjs, and QUnit" article by Jordan Kasper.
 
